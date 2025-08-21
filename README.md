@@ -1,7 +1,7 @@
 🎧 Coaching Guru – Audiobook + Quiz App
 Coaching Guru is a cross-platform React Native app built to make learning on the go easier and more engaging. It’s not just an audiobook player — it adds a powerful quiz backend to reinforce concepts, making it perfect for students, aspirants, and self-learners.
 
-📱 Key Features
+📱 Key Features for this application
 🎧 Audiobook Reader
 Stream or download audiobooks
 
